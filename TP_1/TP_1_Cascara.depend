@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1504337932 source:c:\users\elfab\desktop\trabajos practicos facultad\tp_1_cascara\tp_1_cascara\funciones.c
+
+1504337946 source:c:\users\elfab\desktop\trabajos practicos facultad\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<conio.h>
+
+1504337932 c:\users\elfab\desktop\trabajos practicos facultad\tp_1_cascara\tp_1_cascara\funciones.h
+
+1504358796 source:f:\tp_1_cascara\funciones.c
+
+1504359108 source:f:\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504358831 f:\tp_1_cascara\funciones.h
+
+1504358796 source:e:\tp_1_cascara\funciones.c
+
+1504532036 source:e:\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504525696 e:\tp_1_cascara\funciones.h
+
+1504358796 source:e:\tp_laboratorio_1\funciones.c
+
+1504532036 source:e:\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504525696 e:\tp_laboratorio_1\funciones.h
+
