@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1505965604 source:c:\users\elfab\desktop\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1505966101 c:\users\elfab\desktop\tp_2\funciones.h
+
+1505965969 source:c:\users\elfab\desktop\tp_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
